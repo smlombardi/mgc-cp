@@ -1,0 +1,586 @@
+[
+  {
+    "id": "01-brt",
+    "title": "Bridge Rise & Bridge Transport",
+    "grouping": "one",
+    "description": "Where the web is still wet and hot",
+    "problems": [
+      {
+        "title": "Machine Downtime",
+        "x": 50,
+        "y": -115,
+        "description": "<ul>\n\t<li>Belt life shortened from mechanical fasteners.</li>\n    <li>Splice breakage which requires time-consuming on-site repairing.</li>\n    <li>Belt elongation & mistracking</li>\n</ul>"
+      },
+      {
+        "title": "Product Waste",
+        "x": -150,
+        "y": 115,
+        "description": "<ul>\n    <li>Marks from mechanical fastener.</li>\n    <li>Paper jams from web slippage.</li>\n</ul>"
+      }
+    ],
+    "solutions": [
+      {
+        "separator": true,
+        "title": "Bridge Riser Belt Solutions",
+        "ref": "",
+        "featured": false,
+        "collapsed": false,
+        "video": "",
+        "images": [],
+        "description": ""
+      },
+      {
+        "separator": false,
+        "title": "HS&W Ziplink | Needled Felt Ziplink | Low Fray Mini-Ziplink",
+        "ref": "1612(8-67)(0-1).05ZL | 66(21-1)2(221-67)(0-1)ZL | 6602(B27-210)(0-0)Low Fray",
+        "featured": true,
+        "collapsed": false,
+        "video": "video-1.mp4",
+        "images": [
+          {
+            "filename": "560165.png",
+            "zoomable": false
+          },
+          {
+            "filename": "560205.png",
+            "zoomable": false
+          },
+          {
+            "filename": "image1.png",
+            "zoomable": false
+          }
+        ],
+        "description": "<div class=\"ui-body ui-body-e ui-corner-all overall features\">\n\t <dl> <dt>Overall benefits</dt> <dd> waste reduction and production time increase </dd></dl>\n</div>\n \n<div class=\"ui-body ui-body-e ui-corner-all features\">\n\t <dl> <dt>Reliable web transport</dt> <dd> Fabric surface matches friction needs </dd> <dt>Fewer splice troubles</dt> <dd> ZipLink: strong as the belt </dd> <dd> Unaffected up to 250&nbsp;°F and high humidity </dd> <dt>Reduced downtime</dt> <dd> ZipLink installation in 15 minutes </dd> <dt>Less material damage</dt> <dd> Homogeneous ZipLink splice. No more fasteners </dd> <dt>No mistracking</dt> <dd> Strong ZipLink (initial tension 1%) </dd> </dl>\n</div>"
+      },
+      
+      {
+        "separator": true,
+        "title": "Bridge Transport Solutions",
+        "ref": "",
+        "featured": false,
+        "collapsed": true,
+        "video": "",
+        "images": [],
+        "description": ""
+      },
+      {
+        "separator": false,
+        "title": "HS&W Ziplink | Needled Felt Ziplink | Low Fray Mini-Ziplink",
+        "ref": "1612(8-67)(0-1).05ZL | 66(21-1)2(221-67)(0-1)ZL | 6602(B27-210)(0-0)Low Fray",
+        "featured": true,
+        "collapsed": false,
+        "video": "video-1.mp4",
+        "images": [
+          {
+            "filename": "560165.png",
+            "zoomable": false
+          },
+          {
+            "filename": "560205.png",
+            "zoomable": false
+          },
+          {
+            "filename": "image1.png",
+            "zoomable": false
+          }
+        ],
+        "description": "<div class=\"ui-body ui-body-e ui-corner-all overall features\">\n\t <dl> <dt>Overall benefits</dt> <dd> waste reduction and production time increase </dd></dl>\n</div>\n \n<div class=\"ui-body ui-body-e ui-corner-all features\">\n\t <dl> <dt>Reliable web transport</dt> <dd> Fabric surface matches friction needs </dd> <dt>Fewer splice troubles</dt> <dd> ZipLink: strong as the belt </dd> <dd> Unaffected up to 250&nbsp;°F and high humidity </dd> <dt>Reduced downtime</dt> <dd> ZipLink installation in 15 minutes </dd> <dt>Less material damage</dt> <dd> Homogeneous ZipLink splice. No more fasteners </dd> <dt>No mistracking</dt> <dd> Strong ZipLink (initial tension 1%) </dd> </dl>\n</div>"
+      }
+    ]
+  },
+  
+  {
+    "id": "03-cof",
+    "title": "Cut Off Belts",
+    "grouping": "one",
+    "description": "High control of sheet movement for precise positioning",
+    "problems": [
+      {
+        "title": "Machine Downtime",
+        "x": 88,
+        "y": -149,
+        "description": "<ul>\n\t<li>\n\t\tRepair mistracking\n\t</li>\n\t<ul>\n\t\t<li>\n\t\t\tUnequal belt length\n\t\t</li>\n\t\t<li>\n\t\t\tUnequal tensioning<br>\n\t\t</li>\n\t</ul>\n\t<li>\n\t\tExtra wear from mechanical fasteners\n\t</li>\n\t<li>\n\t\tSplice failure/breakage with long and difficult repair process<br>\n\t</li>\n</ul>"
+      },
+      {
+        "title": "Product Waste",
+        "x": -212,
+        "y": 62,
+        "description": "<ul>\n\t \n\t<li>\n\t\t Loss of product control by edge curling belts \n\t</li>\n\t \n\t<li>\n\t\t Sheet damage from mechanical fasteners’ seam marks<br> \n\t</li>\n</ul>"
+      }
+    ],
+    "solutions": [
+      {
+        "separator": true,
+        "title": "Stacker Transport",
+        "ref": "",
+        "featured": true,
+        "collapsed": true,
+        "video": "",
+        "images": [],
+        "description": ""
+      },
+      {
+        "separator": false,
+        "title": "Blue Carbolated Nitrile Light Impression Ziplink wit Bare Back | Red Puregum Longitudinal Groove Ziplink",
+        "ref": "66(18)1(207ST)(3F-0)ZL | 36(7-1)1(67)(55-1)ZL",
+        "featured": true,
+        "collapsed": false,
+        "video": "video-2.mp4",
+        "images": [
+          {
+            "filename": "560199.png",
+            "zoomable": false
+          },
+          {
+            "filename": "560208.png",
+            "zoomable": false
+          }
+        ],
+        "description": "<div class=\"ui-body ui-body-e ui-corner-all overall features\">\n\t <dl> <dt>Specific Advantages:</dt> <dd> XNBR cover: Increased belt life </dd></dl>\n</div>\n \n<div class=\"ui-body ui-body-e ui-corner-all features\">\n\t <dl> <dt>General Advantages</dt> <dd> Downtime reduction </dd> <dd> Fewer interventions </dd> <dd> Waste reduction </dd> <dd> Fewer interventions </dd> <dd> Quality improvement </dd> <dd> Spare part friendly </dd> <dd> Reduced total costs </dd> </dl>\n</div>"
+      },
+      {
+        "separator": false,
+        "title": "Blue Carboxylated Nitrile Light Impression Ziplink with Carboxylated Friction Backing",
+        "ref": "66(18-32)1(67)(3XF-1X)ZL ",
+        "featured": true,
+        "collapsed": false,
+        "video": "",
+        "images": [
+  
+        ],
+        "description": "<div class=\"ui-body ui-body-e ui-corner-all features\">\n\t <dl> <dt>General Advantages</dt> <dd> Downtime reduction </dd> <dd> Fewer interventions </dd> <dd> Waste reduction </dd> <dd> Fewer interventions </dd> <dd> Quality improvement </dd> <dd> Spare part friendly </dd> <dd> Reduced total costs </dd> </dl>\n</div>"
+      }
+
+    ]
+  },
+  {
+    "id": "03a-st",
+    "title": "Stacker Transport",
+    "grouping": "one",
+    "description": "Inclined transport/further discharge of warm semi-dry board to stacker",
+    "problems": [
+      {
+        "title": "Machine downtime",
+        "x": -83,
+        "y": -79,
+        "description": "<ul>\n\t<li>\n\t\tTracking issues\n\t</li>\n\t<li>\n\t\tNotched v-guides<br>\n\t</li>\n</ul>"
+      }
+    ],
+    "solutions": [
+      {
+        "separator": true,
+        "title": "Stacker Transport",
+        "ref": "",
+        "featured": true,
+        "collapsed": true,
+        "video": "",
+        "images": [],
+        "description": ""
+      },
+      {
+        "separator": false,
+        "title": "Blue Carbolated Nitrile Light Impression Ziplink wit Bare Back | Red Puregum Longitudinal Groove Ziplink",
+        "ref": "66(18)1(207ST)(3F-0)ZL | 36(7-1)1(67)(55-1)ZL",
+        "featured": true,
+        "collapsed": false,
+        "video": "video-2.mp4",
+        "images": [
+          {
+            "filename": "560199.png",
+            "zoomable": false
+          },
+          {
+            "filename": "560208.png",
+            "zoomable": false
+          }
+        ],
+        "description": "<div class=\"ui-body ui-body-e ui-corner-all overall features\">\n\t <dl> <dt>Specific Advantages:</dt> <dd> XNBR cover: Increased belt life </dd></dl>\n</div>\n \n<div class=\"ui-body ui-body-e ui-corner-all features\">\n\t <dl> <dt>General Advantages</dt> <dd> Downtime reduction </dd> <dd> Fewer interventions </dd> <dd> Waste reduction </dd> <dd> Fewer interventions </dd> <dd> Quality improvement </dd> <dd> Spare part friendly </dd> <dd> Reduced total costs </dd> </dl>\n</div>"
+      },
+      {
+        "separator": false,
+        "title": "Blue Carboxylated Nitrile Light Impression Ziplink with Carboxylated Friction Backing",
+        "ref": "66(18-32)1(67)(3XF-1X)ZL ",
+        "featured": true,
+        "collapsed": false,
+        "video": "",
+        "images": [
+  
+        ],
+        "description": "<div class=\"ui-body ui-body-e ui-corner-all features\">\n\t <dl> <dt>General Advantages</dt> <dd> Downtime reduction </dd> <dd> Fewer interventions </dd> <dd> Waste reduction </dd> <dd> Fewer interventions </dd> <dd> Quality improvement </dd> <dd> Spare part friendly </dd> <dd> Reduced total costs </dd> </dl>\n</div>"
+      }
+
+    ]
+  },
+  
+  {
+    "id": "05-pff",
+    "title": "Pre-feeders for FFG",
+    "grouping": "two",
+    "description": "Fully automatic prefeeders for optimum capacity of converting lines<br>",
+    "problems": [
+      {
+        "title": "Product waste",
+        "x": -223,
+        "y": 44,
+        "description": "<ul>\n\t \n\t<li>\n\t\tMarking of board by mechanical fasteners or supergrip profile\n\t</li>\n\t<li>\n\t\tUnreliable performance\n\t</li>\n\t<li>\n\t\tMisfeeding by elongation<br>\n\t</li>\n</ul>"
+      },
+      {
+        "title": "Machine down time",
+        "x": 126,
+        "y": -47,
+        "description": "<ul>\n\t \n\t<li>\n\t\tMechanical fastener breakage<br>\n\t</li>\n\t \n\t<li>\n\t\tShort belt life because of fasteners &amp; improper vacuum setting &amp; elongation<br>\n\t</li>\n</ul>"
+      }
+    ],
+    "solutions": [
+      {
+        "separator": true,
+        "title": "Pre-feeder Belt Solutions",
+        "ref": "",
+        "featured": true,
+        "collapsed": true,
+        "video": "",
+        "images": [],
+        "description": ""
+      },
+      {
+        "separator": false,
+        "title": "Red Puregum 1/8\" Smooth Cover Ziplink with Friction Backing | Red Puregum Longitudinal Groove Ziplink with Friction Backing",
+        "ref": "36(7-1)1(67)(17-1)ZL | 36(7-1)1(67)(55-1)ZL",
+        "featured": true,
+        "collapsed": false,
+        "video": "",
+        "images": [
+          {
+            "filename": "image-2.png",
+            "zoomable": false
+          }
+        ],
+        "description": "<div class=\"ui-body ui-body-e ui-corner-all overall features\"> <dl> <dt>Overall benefits:</dt> <dd> Waste reduction and production time increase </dd></dl>\n</div>\n \n<div class=\"ui-body ui-body-e ui-corner-all features\">\n\t <dl> <dt>On-site splicing<br></dt> <dd> Quick and Easy Installation </dd> <dt>Longest belt life</dt> <dd> Smooth, high friction surface for reliable performance </dd> <dt>Less material damage</dt> <dd> Homogeneous ZipLink splice </dd></dl>\n</div>"
+      },
+
+
+      {
+        "separator": true,
+        "title": "Feeder Belt Solutions",
+        "ref": "",
+        "featured": true,
+        "collapsed": true,
+        "video": "",
+        "images": [],
+        "description": ""
+      },
+      {
+        "separator": false,
+        "title": "Blue Carboxylated Nitrile Light Impression Ziplink with Bare Back | Blue Carboxylated Nitrile Light Impression Ziplink with Carboxylated Freiction Backing",
+        "ref": "66(18)1(207ST)(3F-0)ZL | 66(18-32)1(67)(3XF-1X)ZL",
+        "featured": true,
+        "collapsed": false,
+        "video": "",
+        "images": [
+          {
+            "filename": "image-3.jpg",
+            "zoomable": false
+          }
+        ],
+        "description": "<p>\n\t Alternative original spare part \n</p>"
+      }
+    ]
+  },
+  {
+    "id": "06-tfb",
+    "title": "Case Maker: Traction & Folding Belts for FFG",
+    "grouping": "two",
+    "description": "Printed sheets are folded and glued into final box shape<br>",
+    "problems": [
+      {
+        "title": "Product waste",
+        "x": 250,
+        "y": -145,
+        "description": "<ul>\n\t<li>\n\t\tImperfect product functioning\n\t</li>\n\t<li>\n\t\tDamage from failing fasteners\n\t</li>\n\t<li>\n\t\tComes at highest of costs because the product is at finishing stage<br>\n\t</li>\n</ul>"
+      },
+      {
+        "title": "Machine down time",
+        "x": 121,
+        "y": 11,
+        "description": "<ul>\n\t \n\t<li>\n\t\tShort belt life from edge fraying\n\t</li>\n\t<li>\n\t\tBelt replacement is a long process\n\t</li>\n\t<li>\n\t\tFastener failure<br>\n\t</li>\n</ul>"
+      }
+    ],
+    "solutions": [
+      {
+        "separator": true,
+        "title": "Traction Belt Solutions",
+        "ref": "",
+        "featured": true,
+        "collapsed": true,
+        "video": "",
+        "images": [],
+        "description": ""
+      },
+      {
+        "separator": false,
+        "title": "Red Puregum 1/8\" Cover Ziplink ",
+        "ref": "36(7-1)1(67)(17-1)ZL",
+        "featured": true,
+        "collapsed": false,
+        "video": "video-3.mp4",
+        "images": [
+          {
+            "filename": "560122.png",
+            "zoomable": false
+          }
+        ],
+        "description": "<div class=\"ui-body ui-body-e ui-corner-all features\">\n\t \n\t<h3>\n\t\t General Advantages \n\t</h3>\n\t <dl> <dt>Perfect surface</dt> <dd> No splice</dd> <dt>Perfect case positioning</dt> <dd> High grip</dd> <dt>Low Maintenance</dt> <dd> No stretch</dd> <dt>Product &amp; machine friendly</dt> <dd> No markings</dd> <dt>Longer product life</dt> </dl>\n</div>"
+      },
+      {
+        "separator": false,
+        "title": "Blue Carboxylated Nitrile Roughtop Ziplink",
+        "ref": "66(18-32)1(67)(37X-1X)ZL",
+        "featured": true,
+        "collapsed": false,
+        "video": "",
+        "images": [
+          {
+            "filename": "560207.png",
+            "zoomable": false
+          }
+        ],
+        "description": ""
+      },
+      {
+        "separator": false,
+        "title": "Red Puregum 1/8\" Cover Ziplink ",
+        "ref": "36(7-1)1(67)(17-1)ZL",
+        "featured": true,
+        "collapsed": false,
+        "video": "video-3.mp4",
+        "images": [
+          {
+            "filename": "560122.png",
+            "zoomable": false
+          }
+        ],
+        "description": "<div class=\"ui-body ui-body-e ui-corner-all features\">\n\t \n\t<h3>\n\t\t General Advantages \n\t</h3>\n\t <dl> <dt>Perfect surface</dt> <dd> No splice</dd> <dt>Perfect case positioning</dt> <dd> High grip</dd> <dt>Low Maintenance</dt> <dd> No stretch</dd> <dt>Product &amp; machine friendly</dt> <dd> No markings</dd> <dt>Longer product life</dt> </dl>\n</div>"
+      },
+      {
+        "separator": false,
+        "title": "Blue Carboxylated Nitrile Roughtop Ziplink",
+        "ref": "66(18-32)1(67)(37X-1X)ZL",
+        "featured": false,
+        "collapsed": true,
+        "video": "",
+        "images": [],
+        "description": ""
+      },
+      
+      {
+        "separator": true,
+        "title": "Folding belt solutions",
+        "ref": "",
+        "featured": false,
+        "collapsed": true,
+        "video": "",
+        "images": [],
+        "description": ""
+      },
+          {
+        "separator": false,
+        "title": "Blue Carboxylated Nitrile Roughtop Ziplink",
+        "ref": "66(18-32)1(67)(37X-1X)ZL",
+        "featured": true,
+        "collapsed": false,
+        "video": "",
+        "images": [
+          {
+            "filename": "560207.png",
+            "zoomable": false
+          }
+        ],
+        "description": ""
+      },
+      {
+        "separator": false,
+        "title": "Blue Carboxylated Nitrile Roughtop Ziplink",
+        "ref": "66(18-32)1(67)(37X-1X)ZL",
+        "featured": false,
+        "collapsed": true,
+        "video": "",
+        "images": [],
+        "description": ""
+      }
+      
+
+
+
+
+    ]
+  },
+  {
+    "id": "07-ces",
+    "title": "Counter Eject  for FFG",
+    "grouping": "two",
+    "description": "Counting/stacking of the printed and folded (flat) boxes",
+    "problems": [
+      {
+        "title": "Product waste",
+        "x": 161,
+        "y": -139,
+        "description": "<ul>\n\t<li>\n\t\tSeam marks of mechanical fasteners\n\t</li>\n\t<li>\n\t\tProcess disturbance<br>\n\t</li>\n</ul>"
+      },
+      {
+        "title": "Machine down time",
+        "x": -203,
+        "y": 6,
+        "description": "<ul>\n\t<li>\n\t\tFailing fasteners\n\t</li>\n\t<li>\n\t\tLong and difficult replacement on-site with hot splice<br>\n\t</li>\n</ul>"
+      }
+    ],
+    "solutions": [
+      {
+        "separator": true,
+        "title": "Counter Eject/Stacker Belts Solutions",
+        "ref": "",
+        "featured": true,
+        "collapsed": true,
+        "video": "",
+        "images": [],
+        "description": ""
+      },
+      {
+        "separator": false,
+        "title": "Blue Carboxylated Nitrile Light Impression Ziplink with Friction Backing | Blue Carboxylated Nitrile Roughtop Ziplink with Friction Backing | Blue Carboxylated Nitrile Light Impression Ziplink with Carboxylated Friction Backing | Blue Carboxylated Nitrile Roughtop Ziplink with Carboxylated Friction Backing ",
+        "ref": "66(18)1(67)(3F-1)ZL | 66(18)1(67)(3X-1)ZL | 66(18-32)1(67)(3XF-1X)ZL | 66(18-32)1(67)(37X-1X)ZL",
+        "featured": true,
+        "collapsed": false,
+        "video": "video-4.mp4",
+        "images": [
+          {
+            "filename": "image-4.png",
+            "zoomable": false
+          },
+          {
+            "filename": "image-5.png",
+            "zoomable": false
+          }
+        ],
+        "description": ""
+      }
+      
+    ]
+  },
+  {
+    "id": "08-ffg",
+    "title": "Folder-Gluers",
+    "grouping": "three",
+    "description": "Flat blanks from die cutter are converted into a finished product",
+    "problems": [
+      {
+        "title": "Machine Downtime",
+        "x": -32,
+        "y": 59,
+        "description": "<ul>\n\t \n\t<li>\n\t\tShort belt life shortened by cover wear<br>\n\t</li>\n\t \n\t<li>\n\t\tBelt elongation. Requires retensioning.<br>\n\t</li>\n</ul>"
+      }
+    ],
+    "solutions": [
+      {
+        "separator": true,
+        "title": "Feeders Belts Solutions",
+        "ref": "",
+        "featured": true,
+        "collapsed": true,
+        "video": "",
+        "images": [],
+        "description": ""
+      },
+      {
+        "separator": false,
+        "title": "Red Puregum 1/8” Smooth Cover Ziplink with Friction Backing",
+        "ref": "36(7-1)(67)(17-1)ZL",
+        "featured": true,
+        "collapsed": false,
+        "video": "",
+        "images": [
+          {
+            "filename": "Tanabe1.png",
+            "zoomable": false
+          },
+          {
+            "filename": "Tanabe2.png",
+            "zoomable": false
+          }
+        ],
+        "description": ""
+      },
+
+      {
+        "separator": true,
+        "title": "Folding/Gluing belts solutions",
+        "ref": "",
+        "featured": true,
+        "collapsed": true,
+        "video": "",
+        "images": [],
+        "description": ""
+      },
+      {
+        "separator": false,
+        "title": "Red Puregum 1/8” Smooth Cover Ziplink with Friction Backing",
+        "ref": "36(7-1)(67)(17-1)ZL",
+        "featured": true,
+        "collapsed": true,
+        "video": "",
+        "images": [],
+        "description": ""
+      },
+
+      {
+        "separator": true,
+        "title": "Press/Delivery belts solutions",
+        "ref": "",
+        "featured": true,
+        "collapsed": true,
+        "video": "",
+        "images": [],
+        "description": "<p>\n\tStandard solutions<br>\n</p>"
+      },
+      {
+        "separator": false,
+        "title": "Red Puregum 1/8” Smooth Cover Ziplink with Friction Backing",
+        "ref": "36(7-1)(67)(17-1)ZL",
+        "featured": true,
+        "collapsed": true,
+        "video": "",
+        "images": [],
+        "description": ""
+      },
+ 
+      {
+        "separator": true,
+        "title": "Top compression belts solutions",
+        "ref": "",
+        "featured": true,
+        "collapsed": true,
+        "video": "",
+        "images": [],
+        "description": ""
+      },
+      {
+        "separator": false,
+        "title": "Red Puregum 1/8” Smooth Cover Ziplink with Friction Backing",
+        "ref": "36(7-1)(67)(17-1)ZL",
+        "featured": true,
+        "collapsed": false,
+        "video": "",
+        "images": [
+          {
+            "filename": "Tanabe1.png",
+            "zoomable": false
+          },
+          {
+            "filename": "Tanabe2.png",
+            "zoomable": false
+          }
+        ],
+        "description": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+/*
+	Special CSS for IE8 or less
+*/
+
+body.ui-mobile-viewport{
+	overflow:hidden;
+}
+
+.ui-page{
+	height:100%;
+}
+
+.product .ui-panel-wrapper{
+	height:90%;
+}
+
+.ui-content.solutions-section{
+	overflow-y: auto;
+}

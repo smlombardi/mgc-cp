@@ -1,0 +1,139 @@
+{
+	"title": "Sales Items",
+	"type": "array",
+	"items": {
+		"title": "Sales Item",
+		"type": "object",
+		"properties": {
+			"id": {
+				"type": "string"
+			},
+			"title": {
+				"type": "string"
+			},
+			"grouping": {
+				"type": "string",
+				"title": "Items Grouping",
+				"description": "An extra class to visually group items. Example: \"one\""
+			},
+			"description": {
+				"type": "string",
+				"title": "Description",
+				"description": "Short description without block level HTML tags",
+				"format": "html",
+				"options": {
+					"wysiwyg": true
+				}
+			},
+			"problems": {
+				"type": "array",
+				"title": "Problems",
+				"items": {
+					"title": "Problem",
+					"type": "object",
+					"properties": {
+						"title": {
+							"type": "string",
+							"title": "Title"
+						},
+						"x": {
+							"type": "integer",
+							"default": 0,
+							"format": "range",
+							"minimum" : -250,
+							"maximum" : 250,
+							"title": "x",
+							"description": "Horizontal displacement from the center"
+						},
+						"y": {
+							"type": "integer",
+							"default": 0,
+							"format": "range",
+							"minimum" : -250,
+							"maximum" : 250,
+							"title": "y",
+							"description": "Vertical displacement from the center"
+						},
+						"description": {
+							"type": "string",
+							"title": "Description",
+							"format": "html",
+							"options": {
+								"wysiwyg": true
+							}
+						}
+					}
+				}
+			},
+			"solutions": {
+				"type": "array",
+				"title": "Solutions",
+				"items": {
+					"title": "Solution",
+					"type": "object",
+					"properties": {
+						"separator": {
+							"type": "boolean",
+							"title": "Is Separator",
+							"description":"If this element is a separator. If it is, the rest of the data for this element will be ignored.",
+							"default": false
+						},
+						"title": {
+							"type": "string",
+							"title": "Title"
+						},
+						"ref": {
+							"type": "string",
+							"title": "Ref Nº"
+						},
+						"featured": {
+							"type": "boolean",
+							"title": "Featured",
+							"default": true
+						},
+						"collapsed": {
+							"type": "boolean",
+							"title": "Collapsed",
+							"default": true,
+							"description":"Only one solution will not appear collapsed if within a collapsible set (as hard coded in app options)"
+						},
+						"video": {
+							"type": "string",
+							"title": "Video",
+							"description": "Just the file name without path"
+						},
+						"images": {
+							"type": "array",
+							"title": "Images",
+							"items": {
+								"title": "Image",
+								"type": "object",
+								"properties": {
+									"filename": {
+										"type": "string",
+										"title": "File Name",
+										"description": "Just the file name without path. Images have to be stored in assets/img/content-images"
+									},
+									"zoomable":{
+										"type": "boolean",
+										"title": "Is Zoomable",
+										"description": "Wether the image can be clicked to zoom",
+										"default":false
+									}
+								}
+							}
+						},
+						"description": {
+							"type": "string",
+							"title": "Description",
+							"format": "html",
+							"options": {
+								"wysiwyg": true
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
