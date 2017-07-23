@@ -21,44 +21,10 @@
     "solutions": [
       {
         "separator": true,
-        "title": "Bridge Riser Belt Solutions",
+        "title": "Bridge Riser (Elevator) and Transport Solutions",
         "ref": "",
         "featured": false,
         "collapsed": false,
-        "video": "",
-        "images": [],
-        "description": ""
-      },
-      {
-        "separator": false,
-        "title": "HS&W Ziplink | Needled Felt Ziplink | Low Fray Mini-Ziplink",
-        "ref": "1612(8-67)(0-1).05ZL | 66(21-1)2(221-67)(0-1)ZL | 6602(B27-210)(0-0)Low Fray",
-        "featured": true,
-        "collapsed": false,
-        "video": "video-1.mp4",
-        "images": [
-          {
-            "filename": "560165.png",
-            "zoomable": false
-          },
-          {
-            "filename": "560205.png",
-            "zoomable": false
-          },
-          {
-            "filename": "image1.png",
-            "zoomable": false
-          }
-        ],
-        "description": "<div class=\"ui-body ui-body-e ui-corner-all overall features\">\n\t <dl> <dt>Overall benefits</dt> <dd> waste reduction and production time increase </dd></dl>\n</div>\n \n<div class=\"ui-body ui-body-e ui-corner-all features\">\n\t <dl> <dt>Reliable web transport</dt> <dd> Fabric surface matches friction needs </dd> <dt>Fewer splice troubles</dt> <dd> ZipLink: strong as the belt </dd> <dd> Unaffected up to 250&nbsp;°F and high humidity </dd> <dt>Reduced downtime</dt> <dd> ZipLink installation in 15 minutes </dd> <dt>Less material damage</dt> <dd> Homogeneous ZipLink splice. No more fasteners </dd> <dt>No mistracking</dt> <dd> Strong ZipLink (initial tension 1%) </dd> </dl>\n</div>"
-      },
-      
-      {
-        "separator": true,
-        "title": "Bridge Transport Solutions",
-        "ref": "",
-        "featured": false,
-        "collapsed": true,
         "video": "",
         "images": [],
         "description": ""
@@ -86,6 +52,8 @@
         ],
         "description": "<div class=\"ui-body ui-body-e ui-corner-all overall features\">\n\t <dl> <dt>Overall benefits</dt> <dd> waste reduction and production time increase </dd></dl>\n</div>\n \n<div class=\"ui-body ui-body-e ui-corner-all features\">\n\t <dl> <dt>Reliable web transport</dt> <dd> Fabric surface matches friction needs </dd> <dt>Fewer splice troubles</dt> <dd> ZipLink: strong as the belt </dd> <dd> Unaffected up to 250&nbsp;°F and high humidity </dd> <dt>Reduced downtime</dt> <dd> ZipLink installation in 15 minutes </dd> <dt>Less material damage</dt> <dd> Homogeneous ZipLink splice. No more fasteners </dd> <dt>No mistracking</dt> <dd> Strong ZipLink (initial tension 1%) </dd> </dl>\n</div>"
       }
+      
+     
     ]
   },
   
@@ -250,7 +218,7 @@
     "solutions": [
       {
         "separator": true,
-        "title": "Traction Belt Solutions",
+        "title": "Traction/Folding Belt Solutions",
         "ref": "",
         "featured": true,
         "collapsed": true,
@@ -260,8 +228,8 @@
       },
       {
         "separator": false,
-        "title": "Red Puregum 1/8\" Cover Ziplink ",
-        "ref": "36(7-1)1(67)(17-1)ZL",
+        "title": "Red Puregum 1/8\" Cover Ziplink | Blue Carboxylated Nitrile Roughtop Ziplink | Brown Nitrile Roughtop Ziplink with Yellow Carboxylated Friction Backing",
+        "ref": "36(7-1)1(67)(17-1)ZL | 66(18-32)1(67)(37X-1X)ZL |66(3-32)1(67)(37A-1X)ZL",
         "featured": true,
         "collapsed": false,
         "video": "video-3.mp4",
@@ -269,89 +237,14 @@
           {
             "filename": "560122.png",
             "zoomable": false
-          }
-        ],
-        "description": "<div class=\"ui-body ui-body-e ui-corner-all features\">\n\t \n\t<h3>\n\t\t General Advantages \n\t</h3>\n\t <dl> <dt>Perfect surface</dt> <dd> No splice</dd> <dt>Perfect case positioning</dt> <dd> High grip</dd> <dt>Low Maintenance</dt> <dd> No stretch</dd> <dt>Product &amp; machine friendly</dt> <dd> No markings</dd> <dt>Longer product life</dt> </dl>\n</div>"
-      },
-      {
-        "separator": false,
-        "title": "Blue Carboxylated Nitrile Roughtop Ziplink",
-        "ref": "66(18-32)1(67)(37X-1X)ZL",
-        "featured": true,
-        "collapsed": false,
-        "video": "",
-        "images": [
+          },
           {
             "filename": "560207.png",
             "zoomable": false
           }
         ],
-        "description": ""
-      },
-      {
-        "separator": false,
-        "title": "Red Puregum 1/8\" Cover Ziplink ",
-        "ref": "36(7-1)1(67)(17-1)ZL",
-        "featured": true,
-        "collapsed": false,
-        "video": "video-3.mp4",
-        "images": [
-          {
-            "filename": "560122.png",
-            "zoomable": false
-          }
-        ],
         "description": "<div class=\"ui-body ui-body-e ui-corner-all features\">\n\t \n\t<h3>\n\t\t General Advantages \n\t</h3>\n\t <dl> <dt>Perfect surface</dt> <dd> No splice</dd> <dt>Perfect case positioning</dt> <dd> High grip</dd> <dt>Low Maintenance</dt> <dd> No stretch</dd> <dt>Product &amp; machine friendly</dt> <dd> No markings</dd> <dt>Longer product life</dt> </dl>\n</div>"
-      },
-      {
-        "separator": false,
-        "title": "Blue Carboxylated Nitrile Roughtop Ziplink",
-        "ref": "66(18-32)1(67)(37X-1X)ZL",
-        "featured": false,
-        "collapsed": true,
-        "video": "",
-        "images": [],
-        "description": ""
-      },
-      
-      {
-        "separator": true,
-        "title": "Folding belt solutions",
-        "ref": "",
-        "featured": false,
-        "collapsed": true,
-        "video": "",
-        "images": [],
-        "description": ""
-      },
-          {
-        "separator": false,
-        "title": "Blue Carboxylated Nitrile Roughtop Ziplink",
-        "ref": "66(18-32)1(67)(37X-1X)ZL",
-        "featured": true,
-        "collapsed": false,
-        "video": "",
-        "images": [
-          {
-            "filename": "560207.png",
-            "zoomable": false
-          }
-        ],
-        "description": ""
-      },
-      {
-        "separator": false,
-        "title": "Blue Carboxylated Nitrile Roughtop Ziplink",
-        "ref": "66(18-32)1(67)(37X-1X)ZL",
-        "featured": false,
-        "collapsed": true,
-        "video": "",
-        "images": [],
-        "description": ""
       }
-      
-
-
 
 
     ]
@@ -388,8 +281,8 @@
       },
       {
         "separator": false,
-        "title": "Blue Carboxylated Nitrile Light Impression Ziplink with Friction Backing | Blue Carboxylated Nitrile Roughtop Ziplink with Friction Backing | Blue Carboxylated Nitrile Light Impression Ziplink with Carboxylated Friction Backing | Blue Carboxylated Nitrile Roughtop Ziplink with Carboxylated Friction Backing ",
-        "ref": "66(18)1(67)(3F-1)ZL | 66(18)1(67)(3X-1)ZL | 66(18-32)1(67)(3XF-1X)ZL | 66(18-32)1(67)(37X-1X)ZL",
+        "title": "Blue Carboxylated Nitrile Light Impression Ziplink with Carboxylated Friction Backing | Blue Carboxylated Nitrile Roughtop Ziplink with Carboxylated Friction Backing ",
+        "ref": "66(18-32)1(67)(3XF-1X)ZL | 66(18-32)1(67)(37X-1X)ZL",
         "featured": true,
         "collapsed": false,
         "video": "video-4.mp4",
@@ -424,79 +317,7 @@
     "solutions": [
       {
         "separator": true,
-        "title": "Feeders Belts Solutions",
-        "ref": "",
-        "featured": true,
-        "collapsed": true,
-        "video": "",
-        "images": [],
-        "description": ""
-      },
-      {
-        "separator": false,
-        "title": "Red Puregum 1/8” Smooth Cover Ziplink with Friction Backing",
-        "ref": "36(7-1)(67)(17-1)ZL",
-        "featured": true,
-        "collapsed": false,
-        "video": "",
-        "images": [
-          {
-            "filename": "Tanabe1.png",
-            "zoomable": false
-          },
-          {
-            "filename": "Tanabe2.png",
-            "zoomable": false
-          }
-        ],
-        "description": ""
-      },
-
-      {
-        "separator": true,
-        "title": "Folding/Gluing belts solutions",
-        "ref": "",
-        "featured": true,
-        "collapsed": true,
-        "video": "",
-        "images": [],
-        "description": ""
-      },
-      {
-        "separator": false,
-        "title": "Red Puregum 1/8” Smooth Cover Ziplink with Friction Backing",
-        "ref": "36(7-1)(67)(17-1)ZL",
-        "featured": true,
-        "collapsed": true,
-        "video": "",
-        "images": [],
-        "description": ""
-      },
-
-      {
-        "separator": true,
-        "title": "Press/Delivery belts solutions",
-        "ref": "",
-        "featured": true,
-        "collapsed": true,
-        "video": "",
-        "images": [],
-        "description": "<p>\n\tStandard solutions<br>\n</p>"
-      },
-      {
-        "separator": false,
-        "title": "Red Puregum 1/8” Smooth Cover Ziplink with Friction Backing",
-        "ref": "36(7-1)(67)(17-1)ZL",
-        "featured": true,
-        "collapsed": true,
-        "video": "",
-        "images": [],
-        "description": ""
-      },
- 
-      {
-        "separator": true,
-        "title": "Top compression belts solutions",
+        "title": "Feeder, Folding/Gluing, Press/Delivery, Top Compression Belts Solutions",
         "ref": "",
         "featured": true,
         "collapsed": true,
