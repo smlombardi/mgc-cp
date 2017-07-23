@@ -79,7 +79,7 @@
     "solutions": [
       {
         "separator": true,
-        "title": "Stacker Transport",
+        "title": "Cut Off/Cross-Cut Solutions",
         "ref": "",
         "featured": true,
         "collapsed": true,
@@ -89,34 +89,18 @@
       },
       {
         "separator": false,
-        "title": "Blue Carbolated Nitrile Light Impression Ziplink wit Bare Back | Red Puregum Longitudinal Groove Ziplink",
-        "ref": "66(18)1(207ST)(3F-0)ZL | 36(7-1)1(67)(55-1)ZL",
+        "title": "Light Blue Nitrile Light Impression Ziplink with Yellow Carbolated Backing | Blue Carboxylated Nitrile Light Impression Ziplink with Carboxylated Friction Backing | Blue Carboxlyated Nitrile Light Impression Ziplink with Intermediate Backing",
+        "ref": "66(44-32)1(67)(5-1X)ZL | 66(18-32)1(67)(3XF-1X)ZL | 66(18)1(67)(3F-0)ZL",
         "featured": true,
         "collapsed": false,
         "video": "video-2.mp4",
         "images": [
-          {
-            "filename": "560199.png",
-            "zoomable": false
-          },
           {
             "filename": "560208.png",
             "zoomable": false
           }
         ],
         "description": "<div class=\"ui-body ui-body-e ui-corner-all overall features\">\n\t <dl> <dt>Specific Advantages:</dt> <dd> XNBR cover: Increased belt life </dd></dl>\n</div>\n \n<div class=\"ui-body ui-body-e ui-corner-all features\">\n\t <dl> <dt>General Advantages</dt> <dd> Downtime reduction </dd> <dd> Fewer interventions </dd> <dd> Waste reduction </dd> <dd> Fewer interventions </dd> <dd> Quality improvement </dd> <dd> Spare part friendly </dd> <dd> Reduced total costs </dd> </dl>\n</div>"
-      },
-      {
-        "separator": false,
-        "title": "Blue Carboxylated Nitrile Light Impression Ziplink with Carboxylated Friction Backing",
-        "ref": "66(18-32)1(67)(3XF-1X)ZL ",
-        "featured": true,
-        "collapsed": false,
-        "video": "",
-        "images": [
-  
-        ],
-        "description": "<div class=\"ui-body ui-body-e ui-corner-all features\">\n\t <dl> <dt>General Advantages</dt> <dd> Downtime reduction </dd> <dd> Fewer interventions </dd> <dd> Waste reduction </dd> <dd> Fewer interventions </dd> <dd> Quality improvement </dd> <dd> Spare part friendly </dd> <dd> Reduced total costs </dd> </dl>\n</div>"
       }
 
     ]
@@ -144,7 +128,7 @@
     "solutions": [
       {
         "separator": true,
-        "title": "Pre-feeder Belt Solutions",
+        "title": "Pre-feeder and Feeder Belt Solutions",
         "ref": "",
         "featured": true,
         "collapsed": true,
@@ -154,8 +138,8 @@
       },
       {
         "separator": false,
-        "title": "Red Puregum 1/8\" Smooth Cover Ziplink with Friction Backing | Red Puregum Longitudinal Groove Ziplink with Friction Backing",
-        "ref": "36(7-1)1(67)(17-1)ZL | 36(7-1)1(67)(55-1)ZL",
+        "title": "Red Puregum 1/8\" Smooth Cover Ziplink with Friction Backing | Red Puregum Longitudinal Groove Ziplink with Friction Backing | Blue Carboxylated Nitrile Light Impression Ziplink with Bare Back | Blue Carboxylated Nitrile Light Impression Ziplink with Carboxylated Friction Backing | Tan Pure-Gum Roughtop Ziplink with Bare Back | Red Pure-Gum Longitudinal Groove Ziplink with Bare Back",
+        "ref": "36(7-1)1(67)(17-1)ZL | 36(7-1)1(67)(55-1)ZL | 66(18)1(207ST)(3F-0)ZL | 66(18-32)1(67)(3XF-1X)ZL | 3681(207ST)(37A-0) | 36(7)1(207ST)(55-0)ZL",
         "featured": true,
         "collapsed": false,
         "video": "",
@@ -163,36 +147,13 @@
           {
             "filename": "image-2.png",
             "zoomable": false
-          }
-        ],
-        "description": "<div class=\"ui-body ui-body-e ui-corner-all overall features\"> <dl> <dt>Overall benefits:</dt> <dd> Waste reduction and production time increase </dd></dl>\n</div>\n \n<div class=\"ui-body ui-body-e ui-corner-all features\">\n\t <dl> <dt>On-site splicing<br></dt> <dd> Quick and Easy Installation </dd> <dt>Longest belt life</dt> <dd> Smooth, high friction surface for reliable performance </dd> <dt>Less material damage</dt> <dd> Homogeneous ZipLink splice </dd></dl>\n</div>"
-      },
-
-
-      {
-        "separator": true,
-        "title": "Feeder Belt Solutions",
-        "ref": "",
-        "featured": true,
-        "collapsed": true,
-        "video": "",
-        "images": [],
-        "description": ""
-      },
-      {
-        "separator": false,
-        "title": "Blue Carboxylated Nitrile Light Impression Ziplink with Bare Back | Blue Carboxylated Nitrile Light Impression Ziplink with Carboxylated Freiction Backing",
-        "ref": "66(18)1(207ST)(3F-0)ZL | 66(18-32)1(67)(3XF-1X)ZL",
-        "featured": true,
-        "collapsed": false,
-        "video": "",
-        "images": [
+          },
           {
             "filename": "image-3.jpg",
             "zoomable": false
           }
         ],
-        "description": "<p>\n\t Alternative original spare part \n</p>"
+        "description": "<div class=\"ui-body ui-body-e ui-corner-all overall features\"> <dl> <dt>Overall benefits:</dt> <dd> Waste reduction and production time increase </dd></dl>\n</div>\n \n<div class=\"ui-body ui-body-e ui-corner-all features\">\n\t <dl> <dt>On-site splicing<br></dt> <dd> Quick and Easy Installation </dd> <dt>Longest belt life</dt> <dd> Smooth, high friction surface for reliable performance </dd> <dt>Less material damage</dt> <dd> Homogeneous ZipLink splice </dd></dl>\n</div>"
       }
     ]
   },
