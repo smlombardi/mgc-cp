@@ -358,7 +358,7 @@
           )
 
         ) : $.noop;
-        
+
 
         // ------------ SOLUTIONS ----------------
 
@@ -474,8 +474,7 @@
                     for (h = 0; h < refs.length; h++) {
                       window.console && console.log(h + ' ' + refs[h]);
                       var mySuffix = '<br>';
-                      if (h === refs.length - 1)
-                      {
+                      if (h === refs.length - 1) {
                         mySuffix = '';
                       }
                       $h3
@@ -523,70 +522,40 @@
                       playerHeight = 338,
                       swf = 'assets/swf/flowplayer-3.2.18.swf',
                       ratio = 720 / 1280,
-                      objectString = '', videoData;
-                    // objectString += '<object id="' + objectId + '" type="application/x-shockwave-flash" data="assets/swf/flowplayer-3.2.18.swf" width="' + playerWidth + '" height="' + playerHeight + '">';
-                    objectString += '<object type="application/x-shockwave-flash" data="assets/swf/flowplayer-3.2.18.swf" width="' + playerWidth + '" height="' + playerHeight + '">';
-                    objectString += '<param name="movie" value="assets/swf/flowplayer-3.2.18.swf" />';
-                    objectString += '<param name="allowFullScreen" value="true" />';
-                    objectString += '<param name="wmode" value="transparent" />';
-                    objectString += '<param name="flashVars" value="config={\'playlist\':[\'' + flowPoster + '\',{\'url\':\'' + flowSrc + '\',\'autoPlay\':false}]}" />';
-                    objectString += '<img src=\'' + poster + '\' width=\'' + playerWidth + '\' height=\'' + playerHeight + '\' title=\'No Flash found\' />';
-                    objectString += '</object>';
 
-                    // first we save all data inside the media container for further declaration
-                    videoData = {
-                      src: 'assets/video/' + w.video,
-                      poster: 'assets/video/' + w.video.substr(0, w.video.indexOf('mp4')) + 'jpg',
-                      flowSrc: 'assets%2Fvideo%2F' + w.video,
-                      flowPoster: 'assets%2Fvideo%2F' + w.video.substr(0, w.video.indexOf('mp4')) + 'jpg',
-                      playerWidth: 600,
-                      playerHeight: 338,
-                      swf: 'assets/swf/flowplayer-3.2.18.swf',
-                      ratio: ratio
-                    };
+                      // first we save all data inside the media container for further declaration
+                      videoData = {
+                        src: 'assets/video/' + w.video,
+                        poster: 'assets/video/' + w.video.substr(0, w.video.indexOf('mp4')) + 'jpg',
+                        flowSrc: 'assets%2Fvideo%2F' + w.video,
+                        flowPoster: 'assets%2Fvideo%2F' + w.video.substr(0, w.video.indexOf('mp4')) + 'jpg',
+                        playerWidth: 600,
+                        playerHeight: 338,
+                        swf: 'assets/swf/flowplayer-3.2.18.swf',
+                        ratio: ratio
+                      };
                     var $videoContainer = $('<div />');
                     $videoContainer.addClass('video-container flowplayer is-splash')
-                      .css({
-                        backgroundImage: 'url(' + poster + ')',
-                        backgroundColor: '#AAAAAA',
-                        backgroundPosition: 'center',
-                        backgroundPosition: '100% auto'
-                      })
-                      .attr({
-                        'data-ratio': ratio,
-                        'data-engine': 'html5'
-                      })
+               
                       .appendTo($mediaContainer)
                       .data('videoData', videoData)
-                      .append($('<video />')
+                      .append($('<iframe />')
                         .attr({
-                          controls: 'controls',
-                          poster: poster
-
+                          width: '560',
+                          height: '315',
+                          src: 'https://www.youtube.com/embed/ZUxn6JLwdDY'
                         })
-                        .append('<source type="video/mp4" src="' + src + '">')
 
 
                       );
 
-                    /* $videoContainer.attr('id',"container-" + item.id + j)
-                     .append($('<video />')
-                     .attr({src: src,
-                     controls: 'controls',
-                     poster: poster
-                     })
-                     .append(objectString)
-                     ); */
-
-                    /* $videoContainer.attr('id', "container-" + item.id + j)
-                     .flowplayer({
-                     playlist: [flowPoster, {url: flowSrc, autoPlay: false}]
-                     }); */
 
                     $videoContainer.attr('id', 'container-' + item.id + j);
 
 
                   }
+
+
 
                   if (w.images.length) {
                     var $imageContainer = $('<div />');
