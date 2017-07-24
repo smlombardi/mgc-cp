@@ -524,6 +524,7 @@
                       ratio = 720 / 1280,
 
                       // first we save all data inside the media container for further declaration
+                      // this is no longer used with the youtube solution
                       videoData = {
                         src: 'assets/video/' + w.video,
                         poster: 'assets/video/' + w.video.substr(0, w.video.indexOf('mp4')) + 'jpg',
@@ -535,15 +536,17 @@
                         ratio: ratio
                       };
                     var $videoContainer = $('<div />');
-                    $videoContainer.addClass('video-container flowplayer is-splash')
+                    $videoContainer.addClass('video-container ui-content')
                
                       .appendTo($mediaContainer)
                       .data('videoData', videoData)
+                      // for youtube, the embed iframe
                       .append($('<iframe />')
                         .attr({
                           width: '560',
                           height: '315',
-                          src: 'https://www.youtube.com/embed/ZUxn6JLwdDY'
+                          frameborder: '0',
+                          src: w.video + '?rel=0&amp;fs=0&amp;showinfo=0'
                         })
 
 
